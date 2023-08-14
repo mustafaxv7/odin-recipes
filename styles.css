@@ -1,0 +1,30 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: auto;
+}
+
+.header {
+  color : hsl(156, 45%, 50%);
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+.container .nrecipef {
+  padding-top: 15px;
+  padding-bottom: 30px;
+}
+
+.item1 , .item2 , .item3 {
+  padding:10px;
+}
+
+.relatedlinks a {
+  color:#ef7544;
+}
+

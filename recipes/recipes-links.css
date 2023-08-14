@@ -1,0 +1,41 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin-left:150px;
+  margin-right:150px;
+  margin-top: 20px;
+  margin-bottom:20px;
+}
+.container p {
+  word-spacing: 5px;
+}
+
+.header, .container h2{
+  color:hsl(120, 61%, 63%);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top:7px;
+  padding-bottom: 7px;
+}
+.container h1 {
+  margin-bottom: 16px;
+}
+.container img {
+  text-align: center;
+  border-radius: 5px;
+}
+.container p{
+  margin-right:80px;
+}
+.container p , .ingredients li , .steps li {
+  font-size: 18px;
+  color: rgb(52, 84, 111);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+
